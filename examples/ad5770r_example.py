@@ -2,8 +2,7 @@
 import adi
 
 # Set up AD5770r
-#myad5770r = adi.ad5770r(uri="ip:analog.local")
-myad5770r = adi.ad5770r(uri="ip:10.116.171.104")
+myad5770r = adi.ad5770r(uri="ip:analog.local")
 
 for ch in myad5770r.channel:
     print("Channel Name: ", ch.name)
