@@ -21,7 +21,6 @@ Supported Devices
    adi.ad7606
    adi.ad7689
    adi.ad7746
-   adi.ad7768_4
    adi.ad7799
    adi.ad9081
    adi.ad9081_mc
@@ -68,6 +67,7 @@ Supported Devices
    adi.cn0511
    adi.cn0532
    adi.cn0540
+   adi.cn0579
    adi.daq2
    adi.daq3
    adi.fmc_vna
