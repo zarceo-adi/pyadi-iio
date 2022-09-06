@@ -1,7 +1,7 @@
-ad7768\_4
+cn0579
 =================
 
-.. automodule:: adi.ad7768_4
+.. automodule:: adi.cn0579
    :members:
    :undoc-members:
    :show-inheritance:
