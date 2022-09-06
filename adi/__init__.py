@@ -44,7 +44,6 @@ from adi.ad7124 import ad7124
 from adi.ad7606 import ad7606
 from adi.ad7689 import ad7689
 from adi.ad7746 import ad7746
-from adi.ad7768_4 import ad7768_4
 from adi.ad7799 import ad7799
 from adi.ad9081 import ad9081
 from adi.ad9081_mc import QuadMxFE, ad9081_mc
@@ -87,6 +86,7 @@ from adi.adxl355 import adxl355
 from adi.adxrs290 import adxrs290
 from adi.cn0511 import cn0511
 from adi.cn0532 import cn0532
+from adi.cn0579 import cn0579
 from adi.daq2 import DAQ2
 from adi.daq3 import DAQ3
 from adi.fmc_vna import fmcvna
