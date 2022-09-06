@@ -40,7 +40,7 @@ from adi.rx_tx import rx
 #             return (sample if not (sample & 0x800000) else sample - 0x1000000)
 
 
-class ad7768(rx, context_manager):
+class cn0579(rx, context_manager):
 
     """ AD7768-4 4-channel, Simultaneous Sampling Sigma-Delta ADC """
 
